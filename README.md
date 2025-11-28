@@ -19,3 +19,8 @@ https://www.kaggle.com/competitions/tensorflow-great-barrier-reef
 https://youtu.be/92iwDlrmsQM
 
 https://www.youtube.com/watch?v=aAAghJUhTVM
+
+# Screenshots
+
+<img width="1861" height="1042" alt="image" src="https://github.com/user-attachments/assets/b6024b03-b0f4-4854-827e-b238f5c0f296" />
+
